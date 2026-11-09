@@ -1,6 +1,6 @@
 {
-  "name": "ゾンビ算数ゲーム",
-  "short_name": "ゾンビ算数",
+  "name": "ゾンビ学習アドベンチャー",
+  "short_name": "ゾンビ学習",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,14 +8,10 @@
   "theme_color": "#18253c",
   "icons": [
     {
-      "src": "./アイコン-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./icon-512.png",
+      "src": "./icon-512.png?v=2",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
